@@ -1,0 +1,15 @@
+# Node & React Native dependencies
+node_modules/
+.expo/
+dist/
+npm-debug.log*
+
+# Python environment & cache
+__pycache__/
+*.pyc
+venv/
+.env
+
+# OS temporary files
+.DS_Store
+Thumbs.db
